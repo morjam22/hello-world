@@ -1,9 +1,10 @@
 # hello-world
 
-Top 5 Rappers of 2020
+Top 5 Albums
 
-1. JCole
-2. Travis Scott
-3. Drake
-4. Big Sean
-5. Meg 
+1. Frank Ocean - Blonde
+2. Drake - More Life
+2. Travis Scott - Astro World
+4. Kanye West - My Beautiful Dark Twisted Fantasy 
+5. Summer Walker - Over It
+  
